@@ -1,0 +1,221 @@
+@import url("vars.css");
+
+.MyTrip-background {
+    background: url("../imgs/MyTrip.jpg");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0%;
+
+}
+
+.main-header{
+    padding-top: 10px;
+    padding-bottom: 250px;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+section{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 700px;
+}
+
+.trip-main-info{
+    margin: 5%;
+}
+
+.trip-main-info{
+    font-size: 20px;
+}
+i.add {
+    font-size: 17px;
+}
+
+button.add{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+textarea {
+    width: 400px;
+    height: 150px;
+    font-size: 1em;
+    padding: 1em;
+    border: 0;
+    box-sizing: border-box;
+    background-color: #ffff77;
+}
+
+div.text {
+    padding-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Style the list (remove margins and bullets, etc) */
+ul.favorite-activities-list {
+    list-style-type: none;
+    padding-left: 60px;
+    padding-right: 200px;
+}
+
+/* Style the list items */
+ul.favorite-activities-list li.favorite-activities-list {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+    position: relative;
+    z-index: 0;
+}
+
+/* Add a light grey background color on hover */
+ul.favorite-activities-list li.favorite-activities-list:hover  {
+    background-color: #eee;
+}
+
+/* Style the close button (span) */
+.close {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    padding: 12px 16px;
+    transform: translate(0%, -50%);
+}
+
+.close:hover {background: #bbb;}
+
+
+
+
+
+
+
+/* equipment-list */
+/* Style the list (remove margins and bullets, etc) */
+ul.equipment-list {
+    list-style-type: none;
+    padding-left: 60px;
+    padding-right: 200px;
+}
+
+/* Style the list items */
+ul.equipment-list li.equipment-list {
+    border: 1px solid #ddd;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+/* Add a light grey background color on hover */
+ul.equipment-list li.equipment-list:hover  {
+    background-color: #eee;
+}
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+}
+
+/* Month header */
+.month {
+    padding: 70px 25px;
+    width: 93%;
+    background: #ff56a5;
+    text-align: center;
+}
+
+/* Month list */
+.month ul {
+    margin: 0;
+    padding: 0;
+}
+
+.month ul li {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+    float: left;
+    padding-top: 10px;
+}
+
+/* Next button */
+.month .next {
+    float: right;
+    padding-top: 10px;
+}
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+    margin: 0;
+    padding: 10px 0;
+    background-color:#ddd;
+}
+
+.weekdays li {
+    display: inline-block;
+    width: 13.6%;
+    color: #666;
+    text-align: center;
+}
+
+/* Days (1-31) */
+.days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+}
+
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-bottom: 5px;
+    font-size:12px;
+    color: #777;
+}
+
+/* Highlight the "current" day */
+.days li .active {
+    padding: 5px;
+    background: #ff56a5;
+    color: white
+}
