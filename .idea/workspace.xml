@@ -1,52 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e3da1e9-ab42-4d50-bcc0-cf7a796895c0" name="Default Changelist" comment="The updated version, Lital and Adi (need to add Stav's pages)">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/MyTrip.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/activities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/attraction.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hiking-trip.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/loginorsignup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/restaurant.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/vars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/MyTrip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/attraction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/hiking trip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/loginorsignup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/restaurant.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Attractions-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/MyTrip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/about-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/act-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/bg-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/bg_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/bg_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/bg_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/bg_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/hiking-trip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/image-con.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/marked-star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/restaurant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/unmarkes-star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/MyTrip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fading-in-pics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/login-form.js" afterDir="false" />
+    <list default="true" id="7e3da1e9-ab42-4d50-bcc0-cf7a796895c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/activitysearch.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/activitysearch.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/contactus.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contactus.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/activitysearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/activitysearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/contactus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/fourth-how-to.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/moshik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/moshik.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/pedra-queimada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/pedra-queimada.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/third-how-to.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/third-how-to.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/homepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/date-today.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -169,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1666">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -321,12 +277,20 @@
       <updated>1542010652325</updated>
       <workItem from="1542010662564" duration="30887000" />
       <workItem from="1543322679550" duration="26854000" />
-      <workItem from="1543661417869" duration="22073000" />
+      <workItem from="1543661417869" duration="22792000" />
     </task>
+    <task id="LOCAL-00001" summary="The updated version, Lital and Adi (need to add Stav's pages)">
+      <created>1543822110573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543822110574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79814000" />
+    <option name="totallyTimeSpent" value="80533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -334,7 +298,7 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26537216" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Messages" weight="0.32866043" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -555,8 +519,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
